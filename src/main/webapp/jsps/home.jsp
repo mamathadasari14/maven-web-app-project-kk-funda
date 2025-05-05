@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Dasari May 4th 6.40 am to 8.00 am  </h1>
+<h1 align="center">Welcome to Dasari Devops Course  </h1>
 <h1 align="center"> MAMATHA </h1>
 <hr>
 <br>
